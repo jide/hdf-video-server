@@ -7,4 +7,5 @@
 - Déplacer les vidéos dans le dossier /static/videos
 - Aller sur http://localhost:3001
 - Lire la vidéo (elle est noire donc rien ne s'affichera) - Permet d'autoriser l'autoplay pour les vidéos suivantes
+- OU Lancer chrome avec le flag --autoplay-policy=no-user-gesture-required
 - Mettre la vidéo en plein écran
